@@ -1,6 +1,6 @@
 # Login-Register
 
-This project was built using [Bootstrap 5]([https://pages.github.com/](https://getbootstrap.com/).
+This project was built using [Bootstrap 5](https://getbootstrap.com/).
 
 
 
